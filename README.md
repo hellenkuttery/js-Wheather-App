@@ -21,7 +21,7 @@ Whether App
 ```
 ## Project Gif
 
-![js Slider](./img/weather_app.gif)
+![js Slider](./img/forecast.gif)
 
 ## Project Link
-[Wehather App](https://hellenkuttery.github.io/js-slider/)
+[Wehather App](https://hellenkuttery.github.io/js-Wheather-App/)
